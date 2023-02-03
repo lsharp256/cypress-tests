@@ -42,7 +42,7 @@ When the above steps have been completed, then you should be able to access the 
 
 Install Node.js on your machine
 
-Install Cypress https://docs.cypress.io/guides/getting-started/installing-cypress
+Install Cypress version 10. https://docs.cypress.io/guides/getting-started/installing-cypress
 
   
 # How to run the tests
