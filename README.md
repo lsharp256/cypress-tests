@@ -26,6 +26,8 @@ Run the following commands in the ROOT FOLDER of this project to get the project
 
 4.  `docker compose run --rm artisan db:seed` : this seeds the database with dummy data
 
+On linux, user `docker-compose`
+
   
 
 When the above steps have been completed, then you should be able to access the web application via http://localhost/ in a browser
