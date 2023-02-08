@@ -26,7 +26,7 @@ Run the following commands in the ROOT FOLDER of this project to get the project
 
 4.  `docker compose run --rm artisan db:seed` : this seeds the database with dummy data
 
-On linux, user `docker-compose`
+On linux, use `docker-compose`
 
   
 
